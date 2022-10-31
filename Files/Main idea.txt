@@ -1,0 +1,56 @@
+
+Requirements :
+ The main idea is to provide peoples online stiching services within one day in affordable price and also sell your branded clothes with virtual 
+wearing and virtual size taking by machine
+
+
+How to take orders ?
+ Here we have an two ways to take orders
+
+1 : Client can do by himself
+
+In this section we have an also two ways to take orders 
+    1---->>> For Stiching
+             in this we will take size and all other information from user to accomplish the order
+    2---->>> For Product
+             Its very simple just to deliever the order which is ready made
+
+2 : We will add by our self on customer behalf by Call
+
+-->>Customize orders
+-->>Add details like address and others 
+
+How to verify user / User registeration process?
+
+1-->> on first screen user enter its details 
+2-->> User can verify by email and phone number by sending otp /// User can skip this for later
+3-->> At the order time we will verify it by email or phone number
+
+Otp save into database and then send for later verifications 
+
+
+
+
+
+
+What can user do ?‎
+   Here we talk about user features that what can user do on our pla‎tform
+
+1* : User can place order by just clicking on product order button /also entrer few details like location and size by both manual and machine learning 
+2* : User can save product into favourites / watch also
+3* : User can see his order history
+4 : User can Save his virt⁫ual wearning
+5 : Message on specific product / responded by our bot / representator
+6* : Progress of order / keep track by notification [such as leaving from wearehouse 
+7 : See notifications history
+8 : 
+
+
+
+
+Functiionality for backend :
+
+
+
+logs for api hitting
+logs for error⁫   
